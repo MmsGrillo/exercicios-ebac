@@ -1,0 +1,22 @@
+git --version
+git config --global user.name "MmsGrillo"
+git config --global user.email "mmgrillo@hotmail.com"
+cd ..
+cd diretório
+mkdir
+ls
+git init
+git status
+git add .
+git add index.html
+git add style.css
+git commit -m "primeiro commit"
+git branch -M main
+git remote add origin https://github.com/MmsGrillo/exercicios-ebac
+git push -u origin main
+git clone https://github.com/MmsGrillo/exercicios-ebac
+git branch funcionalidade1
+git branch
+git checkout funcionalidade1
+git merge funcionalidade1
+git checkout -b funcionalidade2
